@@ -1,2 +1,0 @@
-# hackaburg
-Project for Hackaburg
